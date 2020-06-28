@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 1200px;
+    font-family: forte;
+}
+
+.heading-section{
+    background: #00a552;
+    color: #fff;
+    height: 50px;
+}
+
+.heading-section .diff{
+    color:#dac400;
+}
+
+.content-section{
+    background: #dac400;
+    width: 100%;
+    height: 200px;
+    text-align: center;
+}
+
+.content-section p{
+    
+}
+
+.content-main{
+    background: #c200fd;
+    width: 250px;
+    float: left;
+    border: 5px solid #ff0000;
+    margin: 20px;
+}
+
+
+img{
+    width: 200px;
+    margin: 0 auto;
+}
