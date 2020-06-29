@@ -25,8 +25,8 @@ body{
     text-align: center;
 }
 
-.content-section p{
-    
+.content-text p{
+    text-align: justify;
 }
 
 .content-main{
@@ -37,6 +37,10 @@ body{
     margin: 20px;
 }
 
+.content-img{
+    text-align: center;
+    display: block;
+}
 
 img{
     width: 200px;
